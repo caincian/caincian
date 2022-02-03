@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caincian
-- 👀 I’m interested in Python,C++ and Flask
-- 🌱 I’m currently learning Python,C++ and Flask
+- 👀 I’m interested in reading and bike riding
+- 🌱 I’m currently learning Python,C++,maths and science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
